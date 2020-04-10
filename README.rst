@@ -40,5 +40,7 @@ fill the form and hit submit. The data is stored in database.
 To view submitted go to admin panel.
 To View Admin panel go to http://127.0.0.1:8000/admin/ 
 
+Here is the Project Report- https://github.com/prabureddy/AI_Dietician_Django/blob/master/AI_Dietician/AI_Dietician.pdf
+
 
 If any Queries call or message at +91 6383905425.
