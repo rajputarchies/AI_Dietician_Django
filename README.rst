@@ -23,7 +23,7 @@ Follow these steps:
         6. now run these following command to migrate database
             1. py manage.py migrate
             2. py manage.py makemigrations
-            3. again run py manage.py migrate
+            3. again run:- py manage.py migrate
         7. Now atlast create admin to your app using this command:- py manage.py createsuperuser
         8. It asks some details fill it.
         9. Now it's complete Run this app by starting the server using:-  py manage.py runserver
