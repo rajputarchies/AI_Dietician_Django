@@ -44,13 +44,13 @@
     <div class="card text-white bg-light border-primary m-4 ml-5 float-left" style="width: 50rem;">
         <div class="card-header text-info text-center h5">
 
-            {% if message == "0" %} Fill the form to view the details {% endif %} {% if message == 1 %} Your Name: {{ name }} {% endif %}
+            {% if message == "0" %} Fill the form to view the details {% endif %} {% if message == "1" %} Your Name: {{ name }} {% endif %}
 
         </div>
         <div class="card-body text-info">
             {% if message == "0" %}
             <p class="text-center">Submit the form to view the output</p>
-            {% endif %} {% if message == 1 %}Gender: {{ gender }}<br>Height: {{ height }}<br>Weight: {{ weight }}
+            {% endif %} {% if message == "1" %}Gender: {{ gender }}<br>Height: {{ height }}<br>Weight: {{ weight }}
             <hr><br> 1: {{ data_1 }}<br><br> 2: {{ data_2 }}<br><br> 3: {{ data_3 }}<br><br> 4: {{ data_4 }}<br><br> 5: {{ data_5 }}<br><br> {% endif %}
         </div>
     </div>

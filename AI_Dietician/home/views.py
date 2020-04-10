@@ -33,7 +33,7 @@ def index(request):
             # print(age)
             # print(activity)
 
-            context['message'] = 1
+            context['message'] = "1"
             context["name"] = name
             context["gender"] = gender
             context["height"] = height
