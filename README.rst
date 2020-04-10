@@ -1,6 +1,6 @@
 😎 AI_Dietician_Django 😎
 
-https://raw.githubusercontent.com/prabureddy/AI_Dietician_Django/master/AI_Dietician/screenshot/Screenshot-1.png?raw=true
+https://github.com/prabureddy/AI_Dietician_Django/blob/master/AI_Dietician/screenshot/Screenshot-1.png?raw=true
 
 Django AI Dietician, developed by Bharagva Prabu Reddy
 
