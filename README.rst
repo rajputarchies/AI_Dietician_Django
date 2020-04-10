@@ -37,7 +37,7 @@ To View Admin panel go to http://127.0.0.1:8000/admin/
 
 In this project we uses backend which stores the form.
 fill the form and hit submit. The data is stored in database.
-To view database go to 
+To view submitted go to admin panel.
 To View Admin panel go to http://127.0.0.1:8000/admin/ 
 
 
