@@ -13,7 +13,7 @@ Follow these steps:
 1. Clone this Project https://github.com/prabureddy/AI_Dietician_Django.git
 2. Open your terminal in AI_Dietician/ folder which contains requirements.txt file.
 3. Create virtual environment
-    Steps to create Virtual Environment
+        Steps to create Virtual Environment
     1. Run this command in your Terminal or CMD:- conda create --name AI_Dietician
     2. It asks [y/n] :- press y on your keyboard
     3. After Creating Virtual Environment Activate it. To Activate run this command:- activate AI_Dietician
