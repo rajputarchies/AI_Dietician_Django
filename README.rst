@@ -8,6 +8,8 @@ Example project
 You can check out our example project by cloning the repo and heading into example/ directory.
 
 
+Documented By- Bhargava Prabu Reddy
+
 How to Run this Code?
 Follow these steps:
         1. Clone this Project https://github.com/prabureddy/AI_Dietician_Django.git
