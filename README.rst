@@ -2,9 +2,6 @@
 
 https://github.com/prabureddy/AI_Dietician_Django/blob/master/AI_Dietician/screenshot/Screenshot-1.png?raw=true
 
-Django AI Dietician, developed by Bharagva Prabu Reddy
-
-
 
 
 Example project
