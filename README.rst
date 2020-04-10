@@ -35,5 +35,10 @@ Open http://127.0.0.1:8000/ in your browser to view the app.
 
 To View Admin panel go to http://127.0.0.1:8000/admin/ 
 
+In this project we uses backend which stores the form.
+fill the form and hit submit. The data is stored in database.
+To view database go to 
+To View Admin panel go to http://127.0.0.1:8000/admin/ 
+
 
 If any Queries call or message at +91 6383905425.
