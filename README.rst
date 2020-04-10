@@ -17,6 +17,7 @@ Follow these steps:
         3. Create virtual environment
                 Steps to create Virtual Environment
             1. Run this command in your Terminal or CMD:- conda create --name AI_Dietician
+                if any error while running this command install conda from here https://docs.conda.io/en/latest/miniconda.html
             2. It asks [y/n] :- press y on your keyboard
             3. After Creating Virtual Environment Activate it. To Activate run this command:- activate AI_Dietician
             4. Now Virtual Environment is activated in your terminal
